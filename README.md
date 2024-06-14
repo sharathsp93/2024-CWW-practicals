@@ -6,8 +6,20 @@
 
 ## Organization
 
-* Pick your species
-*   Fraxinus excelsior
-*   Tilia cordata
-*   Acer platanoides
-*   Robinia pseudoacacia
+* **Pick your species**
+ * Fraxinus excelsior
+ * Tilia cordata
+ * Acer platanoides
+ * Robinia pseudoacacia
+
+* Pick presentation options
+  * check the folder _literature/ _ and choose one of the four options
+
+* You will collect data on the following traits on your chosen species
+ * Stomatal conductance
+ * Twig water potential
+ * Gmin (desiccation behavior)
+ * heat sensitivity of a species
+ * Turgor loss point
+
+
