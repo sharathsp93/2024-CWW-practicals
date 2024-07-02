@@ -12,6 +12,9 @@ https://pad.gwdg.de/yRRmXuT5RrO9HKl0OHqI-Q
 <img width="1260" alt="Screenshot 2024-06-14 at 7 55 34 PM" src="https://github.com/sharathsp93/2024-CWW-practicals/assets/33393353/a791886f-1f1b-45d9-adee-7ab795c46e69">
 
 
+# rcolor brewer
+https://colorbrewer2.org/#type=qualitative&scheme=Paired&n=4
+
 ## Organization
 
 * **Pick your species**
